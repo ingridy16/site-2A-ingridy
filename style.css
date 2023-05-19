@@ -9,7 +9,7 @@ body {
     background-color: #404d61;
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: stretch;
     padding: 24px 0;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 .seta{
-    width: 5%;
+    width: 3%;
 }
 
 
