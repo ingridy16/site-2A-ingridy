@@ -29,6 +29,16 @@ body {
     margin: 13px;
     font-size: 19px;
 }
+.cabecalho-lista-item3{
+    display: inline-flex;
+    margin: 13px;
+    font-size: 19px;
+}
+
+.seta{
+    width: 5%;
+}
+
 
 .escola-imagem{
     size: 8cm;
