@@ -34,7 +34,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 10px 0;
+    padding: 30px 0;
 }
 
 .informações-div-conteudo{
@@ -43,13 +43,16 @@ body {
 
 
 .informações-titulo{
-    padding: 28px 0;
+    padding: 30px 0;
 }
 
-.estudante{
+.alunos{
     padding: 24px 0;
 }
-.estudante-imagem{
+.alunos-titulo{
+    padding: 50px;
+}
+.alunos-imagem{
     width: 110px;
 }
 
@@ -58,8 +61,8 @@ body {
     padding: 4px 8px;
 }
 
-.estudante-div{
-    text-align: center;
+.alunos-div{
+    text-align: center ;
     padding: 16px 0;
 }
 
