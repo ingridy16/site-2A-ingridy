@@ -18,7 +18,13 @@ body {
     width: 20%;
 }
 
-.cabecalho-lista-item{
+.cabecalho-lista-item1{
+    display: inline-flex;
+    margin: 13px;
+    font-size: 19px;
+}
+
+.cabecalho-lista-item2{
     display: inline-flex;
     margin: 13px;
     font-size: 19px;
