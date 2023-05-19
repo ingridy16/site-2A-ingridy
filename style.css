@@ -43,8 +43,12 @@ body {
 }
 
 
-.informações-titulo{
+.informações-titulo1{
     font-size: 30px;
+    padding: 10px 0;
+}
+.informações-titulo2{
+    font-size: 28px;
     padding: 10px 0;
 }
 
