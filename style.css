@@ -25,7 +25,7 @@ body {
 }
 
 .escola-imagem{
-    size: 200px;
+    size: 8cm;
     width: 25%;
 }
 
@@ -56,8 +56,11 @@ body {
     font-size: 30px;
     padding: 20px;
 }
-.alunos-imagem{
-    size: 5cm;
+.alunos-imagem1{
+    width: 130px;
+}
+
+.alunos-imagem2{
     width: 100px;
 }
 
