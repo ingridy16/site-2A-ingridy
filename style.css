@@ -75,7 +75,7 @@ body {
 }
 .alunos-titulo{
     font-size: 30px;
-    padding: 20px;
+    padding: 5em 200px 10px 200px; 
 }
 .alunos-imagem1{
     width: 130px;
