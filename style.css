@@ -41,9 +41,13 @@ body {
 }
 
 
-.escola-imagem{
-    size: 8cm;
+.escola-imagem1{
+    size: 6cm;
     width: 25%;
+}
+.escola-imagem2{
+    size: 4cm;
+    width: 20%;
 }
 
 .informações{
