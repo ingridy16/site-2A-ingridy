@@ -1,4 +1,4 @@
-*{
+{
     margin: 0;
     padding: 0;
 }
@@ -102,8 +102,8 @@ width: 30%;
     padding: 16px 0;
 }
 
-@media(max-with:720px)
-{ *{
+@media(max-with:720px;){
+    {
     margin: 0;
     padding: 0;
 }
