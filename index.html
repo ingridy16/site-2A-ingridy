@@ -13,12 +13,24 @@
 <body>
     <header class="cabecalho">
         <img class="cabecalho-imagem" src="alurastart logo.png" alt="logo da alura start">
-        <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item1">Quem somos?</li>
-            <li class="cabecalho-lista-item2">Alunos</li>
-            <li class="cabecalho-lista-item3">Escola</li>
-            <a href="https://www.alura.com.br/"><img class="seta" src="seta ultima tentativa.png" alt="icone seta"></a>
-        </ul>
+        <div id="menu">
+            <div id="menu-bar" onclick="menuOnClick()">
+              <div id="bar1" class="bar"></div>
+              <div id="bar2" class="bar"></div>
+              <div id="bar3" class="bar"></div>
+            </div>
+            <nav class="nav" id="nav">
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Blog</a></li>
+              </ul>
+            </nav> 
+          </div>
+          
+          <div class="menu-bg" id="menu-bg"></div>
+        
     
        </header>
     <section class="informações">
