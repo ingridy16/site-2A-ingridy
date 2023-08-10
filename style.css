@@ -102,7 +102,7 @@ width: 30%;
     padding: 16px 0;
 }
 
-@media(max-with:720px;){
+@media(max-with:600px;){
     {
     margin: 0;
     padding: 0;
