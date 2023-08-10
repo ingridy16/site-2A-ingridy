@@ -102,9 +102,8 @@ width: 30%;
     padding: 16px 0;
 }
 
-@media-screen(max-with:720px;){
-    {
-    margin: 0;
+@media-screen(max-width:800px;){
+    {margin: 0;
     padding: 0;
 }
 body {
