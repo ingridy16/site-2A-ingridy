@@ -23,16 +23,7 @@ body {
   background-color: #6C7A86 ;
 }
 
-#menu {
-  z-index: 2;
-}
 
-#menu-bar {
-  width: 45px;
-  height: 40px;
-  margin: 30px 0 20px 20px;
-  cursor: pointer;
-}
 .escola-imagem1{
     
 width: 30%;
