@@ -34,14 +34,6 @@ body {
   cursor: pointer;
 }
 
-.bar {
-  height: 5px;
-  width: 100%;
-  background-color: #DC052D;
-  display: block;
-  border-radius: 5px;
-  transition: 0.3s ease;
-}
 
 #bar1 {
   transform: translateY(-4px);
