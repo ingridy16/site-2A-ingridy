@@ -94,7 +94,7 @@ width: 30%;
         font-family: 'Poppins', sans-serif;
     }
     .cabecalho {
-        background-color: #404d61;
+        background-color: #6C7A86;
         color: white;
         display: flex;
         justify-content: space-evenly;
@@ -108,7 +108,7 @@ width: 30%;
     }
     body {
       font-family: 'Roboto', sans-serif;
-      background-color: #6C7A86 ;
+      background-color: rgba(200, 19, 140, 0.4);
     }
     
     
