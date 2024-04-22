@@ -16,7 +16,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 800px;
+    width:fit-content;
     padding: 1em 300px 10px 200px;
 }
 body {
@@ -50,8 +50,8 @@ width: 30%;
     padding: 10px 0;
 }
 .informações-titulo2{
-    font-size: 28px;
-    padding: 10px 0;
+    font-size: 20px;
+    padding: 30px 0;
 }
 
 .alunos{
