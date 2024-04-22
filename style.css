@@ -25,14 +25,14 @@ body {
 }
 
 
-.escola-imagem1{
+.cozinheiro{
     
 width: 30%;
     justify-content: flex-start;
 }
 
 .informações{
-    background-image: linear-gradient(#e42e5e,#d64f8e);
+    background-image: linear-gradient( #23836e,#09af8b);
     color:white;
     display: flex;
     justify-content: space-evenly;
