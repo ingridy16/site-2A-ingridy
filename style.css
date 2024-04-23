@@ -55,6 +55,7 @@ width: 30%;
 }
 
 .alunos{
+    align-items:normal;
     background-color: #b9ccff;
     padding: 24px 0;
 }
@@ -68,6 +69,9 @@ width: 30%;
 
 .alunos-imagem2{
     width: 130px;
+}
+.alunos-imagem3{
+    width: 160px;
 }
 
 .estudante-icone{
